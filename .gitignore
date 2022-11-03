@@ -1,0 +1,14 @@
+.mypy_cache
+.coverage
+htmlcov
+.DS_Storage
+__pycache__
+.cache
+.pytest_cache
+.ipynb_checkpoints
+.idea/
+
+# Environments
+.env
+env.js
+venv/
